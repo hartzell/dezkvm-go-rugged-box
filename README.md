@@ -1,8 +1,12 @@
 # README
 
-This is a riff on @w00h's [JetKVM rugged box].  Like @w00h, I started
+This is a "rugged box" with some bits inside to hold a DezKVM-Go KVM.
+
+It's a riff on @w00h's [JetKVM rugged box].  Like @w00h, I started
 with a [paraemetric rugged box] model (I used @Whity's) and added a
 cradle in the base and a holder-downer in the lid.
+
+See the upstream project for parts list and assembly instructions.
 
 Following @Whity's lead, I'm distributing this under the
 `Attribution-NonCommercial-ShareAlike 4.0 International` license.
