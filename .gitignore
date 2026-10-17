@@ -1,0 +1,4 @@
+*.gcode
+*.bgcode
+DezKVM-Go
+.DS_Store
